@@ -1,0 +1,6 @@
+image: /home/pi/Downloads/mymap828.pgm
+resolution: 0.050000
+origin: [-11.372160, -11.469524, 0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196

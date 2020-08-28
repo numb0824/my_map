@@ -1,0 +1,6 @@
+image: /home/dennis/Downloads/mymap22.pgm
+resolution: 0.050000
+origin: [-8.951229, -10.193924, 0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
